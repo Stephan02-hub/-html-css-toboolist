@@ -51,6 +51,7 @@ main{
     border-style: solid;
     padding: 2px 1px;
     border-radius: 10px;
+
 }
 h2{
     background-color: #ffffff;
@@ -73,8 +74,8 @@ h2{
 h3{
     display: inline-block;
     vertical-align: middle;
-    font-weight: 0px;
-    font-size: 40px;
+    font-weight: 20px;
+    font-size: 15px;
 
 }
 
