@@ -71,6 +71,10 @@ h2{
     
 }
 h3{
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 0px;
+    font-size: 40px;
 
 }
 
