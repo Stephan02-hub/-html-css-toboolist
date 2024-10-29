@@ -28,3 +28,49 @@ h1{
     vertical-align: middle;
 
 }
+
+main{
+    background-color: #ffffff;
+    width: 800px;
+    margin: 50px auto;
+    border-radius: 10px;
+}
+
+.tag{
+    display: inline-block;
+    background: rgb(0, 170, 255);
+    color: #ffffff;
+    font-size: 14px;
+    padding: 6px 10px;
+    border-radius: 10px;
+}
+.tag2{
+    display: inline-block;
+    background: #ffffff;
+    color: gray;
+    border-style: solid;
+    padding: 2px 1px;
+    border-radius: 10px;
+}
+h2{
+    background-color: #ffffff;
+    width: 800px;
+    margin: 30px auto;
+    border-radius: 10px;
+}
+
+.circle{
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    border: 1px solid black;
+    border-radius: 100px;
+    margin: 10px auto;
+    text-align: center;
+    line-height: 20px;
+    
+}
+h3{
+
+}
+
